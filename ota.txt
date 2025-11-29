@@ -1,3 +1,3 @@
-version=6.0
+version=6.1
 link=https://raw.githubusercontent.com/server-dugyifeuiotun/bcd458df-1f69-4e00-9d2a-4bff2a5aa99c/refs/heads/main/%ED%95%99%EC%8A%B5%ED%8F%B0.exe
 name=학습폰6.exe
